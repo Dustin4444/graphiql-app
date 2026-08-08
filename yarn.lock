@@ -1147,7 +1147,7 @@ babylon@^6.17.2:
   version "6.17.3"
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.17.3.tgz#1327d709950b558f204e5352587fd0290f8d8e48"
 
-balanced-match@^0.4.1, balanced-match@^0.4.2:
+balanced-match@^0.4.2:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-0.4.2.tgz#cb3f3e3c732dc0f01ee70b403f302e61d7709838"
 
@@ -1252,16 +1252,10 @@ boxen@^1.2.1:
     term-size "^1.2.0"
     widest-line "^2.0.0"
 
-brace-expansion@^1.0.0:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.6.tgz#7197d7eaa9b87e648390ea61fc66c84427420df9"
-  dependencies:
-    balanced-match "^0.4.1"
-    concat-map "0.0.1"
-
-brace-expansion@^1.1.7:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.8.tgz#c07b211c7c952ec1f8efd51a77ef0d1d3990a292"
+brace-expansion@^1.0.0, brace-expansion@^1.1.7:
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.18.tgz#3ce74d89885136be1535341f8c3d4425c29a5cab"
+  integrity sha512-Edep/X9fGqVNmzKBVsDYIOtD+z1tuezV70LBjdCst9Tqu76lsnvRiZ6oTic1n+/BIwX6QDGAO94PN4N2SADvtw==
   dependencies:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
